@@ -30,6 +30,7 @@ I'm a passionate Full Stack Developer with a strong technical background from **
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![N8N](https://img.shields.io/badge/n8n-%23D23F5D.svg?style=for-the-badge&logo=n8n&logoColor=white)
 
 **Mobile:**
 
@@ -53,7 +54,7 @@ I'm a passionate Full Stack Developer with a strong technical background from **
 ### 🚀 About Me
 
 - 🎓 **Education:** Technical Degree in Informatics from **IFSP**.
-- 💼 **Focus:** Building responsive web applications and scalable backends.
+- 💼 **Focus:** Building responsive web applications, scalable backends, and **workflow automation**.
 - 🤖 **Android Geek:** I love modifying my phone with **Custom ROMs** and **Root**, and I have experience in **AOSP ROM compilation**.
 - 📫 **Contact:** [biel508ferreiradasilva1105@gmail.com](mailto:biel508ferreiradasilva1105@gmail.com)
 
